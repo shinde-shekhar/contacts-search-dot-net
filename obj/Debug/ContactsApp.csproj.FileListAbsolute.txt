@@ -1,0 +1,10 @@
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csprojAssemblyReference.cache
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.Contacts.resources
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.Properties.Resources.resources
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.GenerateResource.cache
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Users\sagar daswadkar\Desktop\Shekhar\.NET\ContactsApp\ContactsApp\obj\Debug\ContactsApp.pdb
